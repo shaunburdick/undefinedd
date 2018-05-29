@@ -1,0 +1,27 @@
+{
+  "name": "undefinedd",
+  "version": "0.0.0",
+  "description": "Two D's for a double dose of undefined",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaunburdick/undefinedd.git"
+  },
+  "keywords": [
+    "undefined",
+    "dd",
+    "not_null"
+  ],
+  "author": "Shaun Burdick <npm@shaunburdick.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaunburdick/undefinedd/issues"
+  },
+  "homepage": "https://github.com/shaunburdick/undefinedd#readme",
+  "dependencies": {
+    "nulll": "0.0.0"
+  }
+}
